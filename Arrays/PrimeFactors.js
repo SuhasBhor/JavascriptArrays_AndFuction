@@ -1,4 +1,4 @@
-var integer = 10;  //value for which we are finding Prime Factors
+var integer = 105;  //value for which we are finding Prime Factors
 var primeFactor = new Array();
 let isPrime;
 //find divisor starting from 2
